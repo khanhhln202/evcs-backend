@@ -1,0 +1,6 @@
+@EVCSWeb_HostAddress = http://localhost:5227
+
+GET {{EVCSWeb_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
